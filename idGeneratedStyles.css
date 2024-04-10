@@ -1,0 +1,199 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Light-Gray-Fill {
+	border-style:solid;
+	background-color:#f7f8fc;
+}
+div.Light-Gray-Fill--75--Opacity {
+	border-style:solid;
+	background-color:#f7f8fc;
+}
+div.Light-Gray-Fill--95--Opacity {
+	border-style:solid;
+	background-color:#f7f8fc;
+}
+div.Placeholder {
+	border-style:solid;
+	background-color:#939598;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.Body-Text {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Source Sans Pro Light", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.25;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Byline {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Source Sans Pro ExtraLight", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:200;
+	line-height:3.333;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.Cover-Text {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Source Serif Pro", serif;
+	font-size:52px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.058;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Pull-Quote-Teaser {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:35px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.143;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Small-Header-Subheader {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Source Sans Pro ExtraLight", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:200;
+	line-height:3;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:uppercase;
+	widows:1;
+}
+p.TOC---Title {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Adobe Caslon Pro", serif;
+	font-size:35px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.143;
+	margin-bottom:10px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span._6pt--20pt-Leading {
+	font-size:16px;
+}
+span.Bold {
+	font-style:normal;
+	font-weight:bold;
+}
+#_idContainer000, #_idContainer005, #_idContainer008, #_idContainer018, #_idContainer021, #_idContainer030, #_idContainer035, #_idContainer046, #_idContainer060 {
+	display:inline-block;
+	height:1024px;
+	position:relative;
+	width:768px;
+}
+#_idContainer001, #_idContainer022, #_idContainer041, #_idContainer047 {
+	display:inline-block;
+	height:952px;
+	position:relative;
+	width:696px;
+}
+#_idContainer006, #_idContainer009 {
+	display:inline-block;
+	height:638px;
+	position:relative;
+	width:768px;
+}
+#_idContainer017, #_idContainer029 {
+	display:inline-block;
+	height:1054px;
+	position:relative;
+	width:796px;
+}
+#_idContainer034, #_idContainer059 {
+	display:inline-block;
+	height:1052px;
+	position:relative;
+	width:796px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
